@@ -42,11 +42,9 @@ Instalación paso a paso
 
 1\. Clonar el repositorio
 
-git clone https://github.com/TU\_USUARIO/permuta-loadtest.git
+git clone https://github.com/fiship69/web-loadtest
 
-cd permuta-loadtest
-
-Reemplaza TU\_USUARIO por tu usuario real de GitHub.
+cd web-loadtest
 
 
 
